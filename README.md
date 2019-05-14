@@ -4,6 +4,20 @@
 This project is a collection of sorting algorithms in ANSI C
 licensed under the permissive MIT license.
 
+## Algorithms
+
+* [BogoSort](https://en.wikipedia.org/wiki/Bogosort) 
+* [BubbleSort](https://en.wikipedia.org/wiki/Bubble_sort) 
+* [BucketSort](https://en.wikipedia.org/wiki/Bucket_sort) 
+* [HeapSort](https://en.wikipedia.org/wiki/Heapsort) 
+* [InsertionSort](https://en.wikipedia.org/wiki/Insertion_sort) 
+* [MergeSort](https://en.wikipedia.org/wiki/Merge_sort)
+* [QuickSort](https://en.wikipedia.org/wiki/Quicksort) 
+* [SelectionSort](https://de.wikipedia.org/wiki/Selectionsort) 
+* [ShakerSort](https://en.wikipedia.org/wiki/Cocktail_shaker_sort) 
+* [ShellSort](https://en.wikipedia.org/wiki/Shellsort) 
+* [TreeSort](https://en.wikipedia.org/wiki/Tree_sort) 
+
 ### Compile the program
 
 Build the program using gcc.
