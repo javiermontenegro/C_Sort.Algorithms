@@ -1,4 +1,4 @@
-# C Sorting Algorithms
+# Sorting Algorithms
 :star: Star me on GitHub — it helps!
 
 This project is a collection of sorting algorithms in ANSI C
