@@ -1,3 +1,10 @@
+/*********************************************************************
+* Filename:  ShakerSort_Int.Array.c
+* Author:    Javier Montenegro (www.javiermontenegro.com)
+* Copyright:
+* Details:   This code is the implementation of the shakersort algorithm.
+*********************************************************************/
+
 #include <stdio.h>
 #include <time.h>
 

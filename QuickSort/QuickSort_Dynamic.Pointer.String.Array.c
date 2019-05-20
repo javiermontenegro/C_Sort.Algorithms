@@ -1,3 +1,10 @@
+/*********************************************************************
+* Filename:  QuickSort_Dynamic.Pointer.String.Array.c
+* Author:    Javier Montenegro (www.javiermontenegro.com)
+* Copyright:
+* Details:   This code is the implementation of the quicksort algorithm.
+*********************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

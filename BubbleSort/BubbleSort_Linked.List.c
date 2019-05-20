@@ -1,3 +1,10 @@
+/*********************************************************************
+* Filename:  BubbleSort_Linked.List.c
+* Author:    Javier Montenegro (www.javiermontenegro.com)
+* Copyright:
+* Details:   This code is the implementation of the bubblesort algorithm.
+*********************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

@@ -1,3 +1,10 @@
+/*********************************************************************
+* Filename:  TreeSort_String.Struct.c
+* Author:    Javier Montenegro (www.javiermontenegro.com)
+* Copyright:
+* Details:   This code is the implementation of the treesort algorithm.
+*********************************************************************/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>

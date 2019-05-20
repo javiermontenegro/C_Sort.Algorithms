@@ -1,3 +1,10 @@
+/*********************************************************************
+* Filename:  MergeSort_Linked.List.c
+* Author:    Javier Montenegro (www.javiermontenegro.com)
+* Copyright:
+* Details:   This code is the implementation of the mergesort algorithm.
+*********************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

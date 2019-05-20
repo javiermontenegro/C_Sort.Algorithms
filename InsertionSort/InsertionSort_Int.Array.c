@@ -1,3 +1,10 @@
+/*********************************************************************
+* Filename:  InsertionSort_Int.Array.c
+* Author:    Javier Montenegro (www.javiermontenegro.com)
+* Copyright:
+* Details:   This code is the implementation of the insertionsort algorithm.
+*********************************************************************/
+
 #include <stdio.h>
 #include <time.h>
 

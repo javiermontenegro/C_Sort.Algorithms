@@ -1,3 +1,10 @@
+/*********************************************************************
+* Filename:  ShellSort_Int.Array.c
+* Author:    Javier Montenegro (www.javiermontenegro.com)
+* Copyright:
+* Details:   This code is the implementation of the shellsort algorithm.
+*********************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

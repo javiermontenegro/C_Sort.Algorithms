@@ -1,7 +1,10 @@
-/*
-* Algorithm : Bucket Sort
-* Time-Complexity : O(n)
-*/
+/*********************************************************************
+* Filename:  BucketSort_Int.Array.c
+* Author:    Javier Montenegro (www.javiermontenegro.com)
+* Copyright:
+* Details:   This code is the implementation of the bucketsort algorithm.
+*********************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
